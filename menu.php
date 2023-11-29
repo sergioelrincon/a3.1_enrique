@@ -20,7 +20,7 @@
                 <li> <a href='crear_producto.php'> Crea un producto </a></li>
                 <li> <a href='listado_productos.php'> Consulta un producto </a></li>
                 <li> <a href='edita_producto.php'> Modifica un producto </a></li>
-                <li> <a href=''> Elimina un producto </a></li>
+                <li> <a href='elimina_producto.php'> Elimina un producto </a></li>
             </ul>
         </nav>
 
